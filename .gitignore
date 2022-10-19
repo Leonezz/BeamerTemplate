@@ -1,0 +1,6 @@
+imgs/build/*.*
+imgs/*.**
+build/imgs/build/*.*
+build/imgs/*.*
+build/*.*
+main.tex
